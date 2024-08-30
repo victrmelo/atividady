@@ -1,0 +1,14 @@
+.flex-container {
+    display: flex; 
+    justify-content: center; 
+    background-color: rgb(0, 119, 40);
+    padding: 20px;
+}
+
+.box {
+    background-color: rgb(90, 190, 112);
+    padding: 20px;
+    margin: 10px;
+    width: 100px;
+    text-align: center;
+}
