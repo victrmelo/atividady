@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.left, .center, .right {
+    float: left;
+    height: 100px; 
+    padding: 10px;
+    box-sizing: border-box; 
+}
+
+.left {
+    width: 200px; 
+    background-color: blue; 
+}
+
+.center {
+    width: 400px; 
+    background-color: #f32222; 
+}
+
+.right {
+    width: 200px; 
+    background-color: #9900ff;
+    
+}
