@@ -1,0 +1,19 @@
+body {
+    height: 100%; 
+}
+
+.flex-container {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+    height: 100%;
+    background-color: rgb(9, 0, 58);
+    padding: 20px;
+}
+
+.box {
+    background-color: rgb(86, 45, 141);
+    padding: 20px;
+    width: 100px;
+    text-align: center;
+}
